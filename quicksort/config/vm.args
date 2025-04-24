@@ -1,0 +1,6 @@
+-sname quicksort
+
+-setcookie quicksort_cookie
+
++K true
++A30
