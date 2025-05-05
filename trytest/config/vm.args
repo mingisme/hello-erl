@@ -1,0 +1,6 @@
+-sname trytest
+
+-setcookie trytest_cookie
+
++K true
++A30
